@@ -1,0 +1,3 @@
+AppLock adalah sebuah aplikasi yang di bina untuk mengunci aplikasi pada android.
+
+Versi:
