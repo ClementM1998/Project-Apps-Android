@@ -1,0 +1,4 @@
+AppVibrate adalah sebuah app yang bertujuan untuk memberi isyarat getaran jika telefon tidak bergerak atau tidak di pegang
+atau telefon tiada aktiviti gerakkan dari pengguna.
+
+Versi:
